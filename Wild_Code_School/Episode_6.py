@@ -10,6 +10,12 @@ Trouvez la bonne équation pour faire ce calcul avec Python.
 
 Ensuite, affichez les résultats à l'aide de la fonction print
 '''
+
+episode = "Episode 6 : Du vin à boire ! (data)"
+
+print(episode)
+print("-" * len(episode))
+
 litres_eau = 1000
 litres_consommes = 390
 num_argonautes = 50

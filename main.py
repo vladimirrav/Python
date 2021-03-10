@@ -1,1 +1,1 @@
-from Wild_Code_School import Episode_6 as e6
+from Wild_Code_School import Episode_6

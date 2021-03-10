@@ -1,4 +1,9 @@
 # Commentaire en Python
+episode = "Épisode 5 : Un peu de coaching (data)"
+
+print(episode)
+print("-" * len(episode))
+
 print(
   "Résister et continuer",
   "https://argo.wildcodeschool.com/expeditions/precourse/quests/1171",
