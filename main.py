@@ -1,1 +1,1 @@
-from Wild_Code_School import Episode_6
+from Wild_Code_School import Episode_7
